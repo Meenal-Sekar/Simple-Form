@@ -1,0 +1,32 @@
+.form-23
+{
+    background-color: lightslategray;
+    
+}
+input[type="text"],input[type="password"]
+{
+    height: 20px;
+    width: 75%;
+}
+select
+{
+    background-color: lightgrey;
+    font-weight: bold;
+}
+button{
+    background-color: green;
+    border:0;
+    padding:10px 20px;
+    color:white;
+}
+label
+{
+    color:green
+}
+h1
+{
+    color:blue;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
